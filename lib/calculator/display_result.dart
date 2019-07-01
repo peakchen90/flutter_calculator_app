@@ -26,7 +26,7 @@ class DisplayResult extends StatelessWidget {
           results.format(),
           style: TextStyle(
             fontSize: 80.0,
-            fontWeight: FontWeight.w200,
+            fontWeight: FontWeight.w300,
           ),
           maxLines: 1,
           textAlign: TextAlign.right,

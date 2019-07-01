@@ -1,9 +1,8 @@
+import 'package:calculator_app/calculator/display_result.dart';
+import 'package:calculator_app/calculator/keyboard.dart';
 import 'package:calculator_app/calculator/result.dart';
 import 'package:calculator_app/utils/adapt.dart';
 import 'package:flutter/material.dart';
-
-import 'display_result.dart';
-import 'keyboard.dart';
 
 class App extends StatefulWidget {
   @override
